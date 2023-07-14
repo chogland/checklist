@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'v1.0.0',
+  appId: 'v0.0.1',
   appName: 'checklist',
   webDir: 'www',
   server: {
